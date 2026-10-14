@@ -1,0 +1,9 @@
+{
+  "version": 5,
+  "file": "heavenbound-5.pck",
+  "sha256": "7b004952ec936a123850b14ea0119350a3251988095bb92e8cbfaca58cad859c",
+  "size": 7590864,
+  "min_launcher": 1,
+  "notes": "Le jeu devient pay-to-win ! Nouveaux diamants célestes et Boutique (bouton en bas) : packs de diamants, offre de bienvenue, offres limitées, boosts et coffres. Achats de test pour l'instant : aucun paiement réel. VIP 1 à 10 en suivant l'histoire principale (bandeau sous ton portrait), puis SVIP 1 à 15 dès le premier achat, avec de vrais bonus (or, XP, stats, temps de boss, hors ligne). Récompense du jour dans la fenêtre VIP, Pass céleste de 30 paliers, et le niveau VIP/SVIP s'affiche dans le classement.",
+  "apk_url": "https://github.com/Manakil-studio/HeavenBound-MAJ/raw/main/heavenbound.apk"
+}
