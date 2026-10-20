@@ -1,0 +1,9 @@
+{
+  "version": 11,
+  "file": "heavenbound-11.pck",
+  "sha256": "ce3fbb0d3d48a55284a15cf18a3040626d070a61edca78669665e3c4683492c1",
+  "size": 9446400,
+  "min_launcher": 1,
+  "notes": "Les Boss arrivent !\n- Boss d'équipement (dès l'étage 4) : 12 boss illustrés, 5 tentatives par jour (+ VIP), balayage des boss déjà battus, 100 diamants à la première victoire.\n- Temple céleste (dès l'étage 15) : un boss commun par jour, 3 assauts, paliers de récompenses, coffre commun quand il tombe, classement et titres pour le top 3 de la veille.\n- Nouveautés boutique : Fureur divine (assauts ×1,3) et Pack du chasseur de boss (une fois par jour).\n- Nouveau bouton Boss dans la colonne de droite.",
+  "apk_url": "https://github.com/Manakil-studio/HeavenBound-MAJ/raw/main/heavenbound.apk"
+}
